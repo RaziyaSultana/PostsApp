@@ -1,0 +1,7 @@
+.taskInput {
+    min-width: 365px;
+    margin-right: 10px;
+    display: block;
+    min-height: fit-content;
+    max-height: fit-content;
+  }
